@@ -1,1 +1,1 @@
-# sample
+＃電卓sample
